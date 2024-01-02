@@ -3,7 +3,7 @@
     <img alt="curatios" src="https://avatars.githubusercontent.com/u/127061852?s=200&v=4" width="200px" height="200px" style="border-radius: 50%;border: 2px solid gray;" />
   </a>
   <br />
-  Curatios
+  LinkLex
 </h1>
 
 <p align="center">
