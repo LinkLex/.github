@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/linklex" title="linklex">
-    <img alt="linklex" src="https://avatars.githubusercontent.com/u/127061852?s=200&v=4" width="200px" height="200px" style="border-radius: 50%;border: 2px solid gray;" />
+    <img alt="linklex" src="./branding/logo.png" width="200px" height="200px"/>
   </a>
   <br />
   LinkLex
